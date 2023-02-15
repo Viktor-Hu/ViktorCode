@@ -1,0 +1,5 @@
+Mobility data used in this paper:https://marketplace.deweydata.io/#/datasets/SafeGraph (The monthly pattern (US) dataset, mean home-dwell time column);
+Demographic data (income, insurance, number of old people) used in this paper: https://data2.nhgis.org/main (2015 data)
+COVID-19 mortality data (2021) used in this paper: https://github.com/nytimes/COVID-19-data
+Diabetes and heart disease data (2018) used in this paper：https://nccd.cdc.gov/DHDSPAtlas/?state=County
+
